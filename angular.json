@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "LineaTiempo"
+  "defaultProject": "LineaTiempo",
+  "cli": {
+    "analytics": "d4184a83-40c2-4f10-8137-c14b77040ac5"
+  }
 }
