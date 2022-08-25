@@ -118,3 +118,12 @@
     top: 0;
     bottom: -56px;
 }
+.main-timeline .circle .img{
+    vertical-align: initial;
+    border-radius: 50%;
+}
+.main-timeline .content{
+    display: table;
+    padding-right: 40px;
+    position: relative;
+}
