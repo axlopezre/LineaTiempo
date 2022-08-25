@@ -339,24 +339,3 @@
         text-align: center;
     }
 }
-hr {
-    border: 0;
-    margin: 1.35em auto;
-    max-width: 100%;
-    background-position: 50%;
-    box-sizing: border-box;
-  }
-  .t1x{
-    color: green;
-    text-align: center;
-  }
-  .horizontal-lines {
-    height: 20px;
-    background-image: linear-gradient(
-      currentColor,
-      currentColor 33.33%,
-      transparent 33.33%,
-      transparent 100%);
-    background-size: 100% 3px;
-    width: 100%;
-  }
