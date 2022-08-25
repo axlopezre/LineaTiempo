@@ -136,12 +136,7 @@
     font-size: 25px;
     color: #fff;
 }
-.main-timeline .title{
-    font-size: 25px;
-    font-weight: bold;
-    color: rgba(211,207,205,1);
-    margin-top: 0;
-}
+
 .main-timeline .description{
     font-size: 18px;
     color: #333;
@@ -157,18 +152,7 @@
     top: 74px;
     right: -14px;
 }
-.main-timeline .icon:before{
-    content: "";
-    width: 15px;
-    height: 25px;
-    background: rgba(211,207,205,1);
-    margin: auto;
-    position: absolute;
-    top: -1px;
-    left: -15px;
-    bottom: 0;
-    z-index: -1;
-}
+
 .main-timeline .icon span:before,
 .main-timeline .icon span:after{
     content: "";
