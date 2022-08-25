@@ -352,8 +352,6 @@ hr {
   }
   .horizontal-lines {
     height: 20px;
-    $color: green;
-    color: $color;
     background-image: linear-gradient(
       currentColor,
       currentColor 33.33%,
